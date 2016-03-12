@@ -1,4 +1,4 @@
-API Specification for 2eat
+# API Specification for 2eat
 --------------------------
 
 Crowd-sourced restaurant menus.
